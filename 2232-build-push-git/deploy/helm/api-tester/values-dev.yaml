@@ -4,7 +4,7 @@ replicaCount: 1
 image:
   repository: hoonzzang/api-tester
   pullPolicy: Always
-  tag: "git-250624.204830"
+  tag: "git-250624.205448"
 
 resources:
   limits:
